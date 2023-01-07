@@ -1,7 +1,9 @@
-export default function Home() {
-  return (
-    <div style={{backgroundColor: "rgb(20,20,28)", width: "100vw", height: "100vh", display: "flex", justifyContent: "center", alignItems: "center"}}>
-        <p style={{fontWeight: "900", fontSize: "10vh"}}>🎉🎉🎉</p>
-    </div>
-  )
+export default function app() {
+
+
+    return (
+        <div className="bg-[#23272a] w-[100vw] h-[100vh]">
+            
+        </div> 
+    )
 }
